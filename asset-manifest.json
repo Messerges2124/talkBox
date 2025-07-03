@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/talkBox/static/css/main.fb31c2be.css",
+    "main.js": "/talkBox/static/js/main.0a1fe883.js",
+    "static/js/453.8a082b00.chunk.js": "/talkBox/static/js/453.8a082b00.chunk.js",
+    "index.html": "/talkBox/index.html",
+    "main.fb31c2be.css.map": "/talkBox/static/css/main.fb31c2be.css.map",
+    "main.0a1fe883.js.map": "/talkBox/static/js/main.0a1fe883.js.map",
+    "453.8a082b00.chunk.js.map": "/talkBox/static/js/453.8a082b00.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb31c2be.css",
+    "static/js/main.0a1fe883.js"
+  ]
+}
