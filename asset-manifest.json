@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/talkBox/static/css/main.0a55123f.css",
-    "main.js": "/talkBox/static/js/main.890b514a.js",
+    "main.css": "/talkBox/static/css/main.2ba5b8eb.css",
+    "main.js": "/talkBox/static/js/main.8d90d473.js",
     "static/js/453.8a082b00.chunk.js": "/talkBox/static/js/453.8a082b00.chunk.js",
     "index.html": "/talkBox/index.html",
-    "main.0a55123f.css.map": "/talkBox/static/css/main.0a55123f.css.map",
-    "main.890b514a.js.map": "/talkBox/static/js/main.890b514a.js.map",
+    "main.2ba5b8eb.css.map": "/talkBox/static/css/main.2ba5b8eb.css.map",
+    "main.8d90d473.js.map": "/talkBox/static/js/main.8d90d473.js.map",
     "453.8a082b00.chunk.js.map": "/talkBox/static/js/453.8a082b00.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0a55123f.css",
-    "static/js/main.890b514a.js"
+    "static/css/main.2ba5b8eb.css",
+    "static/js/main.8d90d473.js"
   ]
 }
